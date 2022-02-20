@@ -1,6 +1,6 @@
 # Reinforcment Back-end.
 
-> Note that the reinforcment are not mandatory, they are given live and some of the material is best followed when participating. This is not a course reimplacment.
+> Note that the reinforcment are not mandatory, they are given live and some of the material is best followed when participating. This is not a course reimplacment :)
 
 ## **Review of the MVC**
 
